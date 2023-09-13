@@ -12,4 +12,6 @@
 
 Technologies used in the project:
 
-*   JAVA
+* Java
+* Git
+* Visual Studio Code
