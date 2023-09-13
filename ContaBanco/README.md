@@ -1,5 +1,5 @@
 <h1>Conta Banco</h1>
-O projeto Conta Banco receberá dados via Terminal contendo as características de conta em banco conforme atributos abaixo: 
+<p>O projeto Conta Banco receberá dados via Terminal contendo as características de conta em banco conforme atributos abaixo:</p> 
 
 <br>
 
